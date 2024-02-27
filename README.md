@@ -1,7 +1,7 @@
-# Desafio de Projeto da DIO - **Construa um Projeto Lógico de Banco de Dados do Zero(OFICINA)**
-#### Projeto proposto no Bootcamp [Geração Tech Unimed-BH - Ciência de Dados](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-ciencia-de-dados?ref=CG-bootcamp-unimed-bh-ciencia-de-dados) na plataforma [DIO.](https://www.dio.me/)
+# Desafio de Projeto da DIO - **Construa um Projeto Lógico de Banco de Dados - OFICINA**
 
-O projeto foi feito baseado em uma OFICINA fictícia que criamos em outro projeto na plataforma dio também, imaginado e pensado para que fosse tirado o maior proveito de aprendizagem do aluno, a ferramenta utilizada foi o MySQL Workbench 8.0 CE conforme orientado pela professora que ministra o curso.
+
+O projeto foi feito baseado em uma OFICINA fictícia que criamos em outro projeto na plataforma dio também, imaginado e pensado para que fosse tirado o maior proveito de aprendizagem do aluno, a ferramenta utilizada foi o MySQL Workbench conforme orientado pela professora que ministra o curso.
 
 # **Descrição do Desafio**
 
@@ -36,8 +36,9 @@ _"Neste desafio, você irá utilizar seu esquema conceitual, criado no desafio d
 **Instrutor(a): **_Juliana Mascarenha_
 
 
-
+## Esquema
+![image](https://github.com/ariceliom/SQL-Desafio-oficina-DIO/assets/89526853/15c5c7d1-e905-4420-8540-cea0ab4acf5c)
 
 
 ## Certificado
-![img](https://github.com/htonioni/mysql-desafio-oficina-dio._/blob/master/certificado/certificado.jpg)
+
