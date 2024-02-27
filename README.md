@@ -41,4 +41,6 @@ _"Neste desafio, você irá utilizar seu esquema conceitual, criado no desafio d
 
 
 ## Certificado
+https://www.dio.me/certificate/XJ7WD9YQ/share
+![image](https://github.com/ariceliom/SQL-Desafio-oficina-DIO/assets/89526853/ad42ed64-2d1e-4faa-9e2a-37d409a229c0)
 
