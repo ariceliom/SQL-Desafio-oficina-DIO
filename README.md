@@ -36,7 +36,7 @@ _"Neste desafio, você irá utilizar seu esquema conceitual, criado no desafio d
 **Instrutor(a): **_Juliana Mascarenha_
 
 
-## Esquema
+## Schema
 ![image](https://github.com/ariceliom/SQL-Desafio-oficina-DIO/assets/89526853/15c5c7d1-e905-4420-8540-cea0ab4acf5c)
 
 
